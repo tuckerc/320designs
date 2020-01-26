@@ -1,0 +1,81 @@
+header {
+  border-bottom: 0.5vh solid black;
+}
+
+nav a {
+  color: white;
+  background-color: rgb(76, 153, 173);
+  border: 0.25vh solid rgb(76, 153, 173);
+  border-radius: 25% 10%;
+  text-decoration: none;
+  text-align: center;
+  font-size: 3vh;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: rgb(76, 153, 173);
+  border: 0.25vh solid white;
+  background-color: white;
+}
+
+main, footer {
+  background-color: rgb(76, 153, 173);
+}
+
+h1 {
+  font-size: 3.5vh;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 3vh;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+main img {
+  border: 0.5vh solid black;
+}
+
+#services {
+  border-bottom: 0.5vh dashed black;
+}
+
+.serviceBlock {
+  border: 0.2vh solid white;
+}
+
+.serviceParagraph, .serviceList, #about p {
+  color: white;
+  font-size: 2.5vh;
+}
+
+.serviceList {
+  list-style-type: disc;
+  list-style-position: inside;
+}
+
+iframe {
+  border: 0.5vh solid black;
+}
+
+#about {
+  border: 0.2vh solid white;
+}
+
+#contact {
+  border-top: 0.5vh dashed black;
+  border-bottom: 0.5vh dashed black;
+}
+
+#contact a {
+  color: white;
+  font-size: 3vh;
+  font-weight: bold;
+}
