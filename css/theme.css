@@ -1,4 +1,17 @@
-header {
+main, footer, .navbar-toggler {
+  background-color: rgb(76, 153, 173);
+}
+
+p {
+  font-size: 1.1em;
+}
+
+ul {
+  list-style-position: inside;
+  padding-left: 0px;
+}
+
+/* header {
   border-bottom: 0.5vh solid black;
 }
 
@@ -17,10 +30,6 @@ nav a:hover {
   color: rgb(76, 153, 173);
   border: 0.25vh solid white;
   background-color: white;
-}
-
-main, footer {
-  background-color: rgb(76, 153, 173);
 }
 
 h1 {
@@ -78,4 +87,4 @@ iframe {
   color: white;
   font-size: 3vh;
   font-weight: bold;
-}
+} */

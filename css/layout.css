@@ -1,4 +1,12 @@
-body {
+#services img {
+  width: 250px;
+}
+
+iframe {
+  min-height: 350px;
+}
+
+/* body {
   display: grid;
   grid-template: 20vh auto 3vh / auto;
   min-height: 100vh;
@@ -215,4 +223,4 @@ footer {
   align-items: end;
   justify-items: center;
   align-items: baseline;
-}
+} */
